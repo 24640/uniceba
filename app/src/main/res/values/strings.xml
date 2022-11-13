@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Uniceba</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hola">hola</string>
+    <string name="Prueba_RL">Prueba_RL</string>
+    <string name="Regresar">Regresar</string>
+    <string name="Copyright_ReynaldosINC_by_Uniceba">Copyright_ReynaldosINC_by_Uniceba</string>
+    <string name="Licenciatura">Licenciatura</string>
+    <string name="Maestría_________Doctorado">Maestría_________Doctorado</string>
+    <string name="Posgrado">Posgrado</string>
+    <string name="Materia">Materias</string>
+    <string name="base_datos">Base de datos</string>
+    <string name="ing_soft">Ingenieria de software</string>
+    <string name="Calificacion">Calificacion Final</string>
+    <string name="cal">Calificaciones</string>
+    <string name="uniceba">Centro de estudios superiores del bajio</string>
+
+
+</resources>
